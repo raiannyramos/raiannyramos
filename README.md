@@ -1,8 +1,8 @@
 ## Olá, Eu sou a Raianny Ramos  👋
 
+- 🧠 Aspirante em back end 
 
-
-Sobre mim
+**Sobre mim**
 
 - 🖥️ Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no 1º semestre. 
 Estou aprendendo fundamentos de programação, lógica e desenvolvimento web. Tenho interesse em back-end e banco de dados
