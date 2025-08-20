@@ -1,6 +1,6 @@
 ## Olá, Eu sou a Raianny Ramos  👋
 
-- 🧠 Aspirante em back end 
+- 🧠 Aspirante em Back - end 
 
 **Sobre mim**
 
