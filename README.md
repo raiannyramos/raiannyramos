@@ -10,3 +10,12 @@ Estou aprendendo fundamentos de programação, lógica e desenvolvimento web. Te
 - 🌱 Atualmente atuo como Auxiliar de escritório e estou em constante aprendizado e aplico meus estudos em pequenos projetos com valor real.
 
 - 💬 Projetos em andamento
+______________________________________________________________________________________________________________________________________________________________
+**Minhas Habilidades em desenvolvimento**
+- Excel Avançado
+- Power BI
+- Python (Iniciante)
+- Git e GitHub (aprendendo)
+______________________________________________________________________________________________________________________________________________________________
+**Contato**
+Linkedln https://www.linkedin.com/in/raianny-ramos-6935b5241/
